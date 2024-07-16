@@ -35,3 +35,5 @@ Install with python
  
 
 ![SS](https://i.ibb.co.com/sjqwZPV/Cuplikan-layar-2024-07-12-225726.png)
+
+credit to Ghalibie
